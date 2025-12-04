@@ -57,7 +57,7 @@ To view and interact with this dashboard:
 
 ## Dashboard Preview
 
-[Image of a Power BI Retail Analytics Dashboard]<img width="606" height="337" alt="Screenshot 2025-12-03 225342 - Copy" src="https://github.com/user-attachments/assets/9646d175-9c72-4da6-b46e-7e1655a3e445" />
+<img width="606" height="337" alt="Screenshot 2025-12-03 225342 - Copy" src="https://github.com/user-attachments/assets/9646d175-9c72-4da6-b46e-7e1655a3e445" />
 
 
 
