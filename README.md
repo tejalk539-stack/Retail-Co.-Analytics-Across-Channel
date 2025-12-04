@@ -20,7 +20,6 @@ The dashboard allows users to analyze retail operations through the following pe
   * **Product Performance:** Drill down into performance by product category, sub-category, and individual SKU.
   * **Geographic Analysis:** (Likely included) Map sales performance by region, state, or store location.
 
------
 
 ## Technical Stack
 
@@ -61,7 +60,7 @@ To view and interact with this dashboard:
 [Image of a Power BI Retail Analytics Dashboard]<img width="606" height="337" alt="Screenshot 2025-12-03 225342 - Copy" src="https://github.com/user-attachments/assets/9646d175-9c72-4da6-b46e-7e1655a3e445" />
 
 
-*(**Note:** Insert a screenshot of your main dashboard page here.)*
+
 
 -----
 
@@ -71,8 +70,4 @@ This project is licensed under the **MIT License** - see the [LICENSE.md](LICENS
 
 -----
 
-## Contact
 
-  * **Author:** [Your Name/Company Name]
-  * **Email:** [Your Email Address]
-  * **LinkedIn/Portfolio:** [Link to your professional profile]
